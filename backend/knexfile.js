@@ -13,7 +13,7 @@ module.exports = {
     },
     useNullAsDefault:true,
   },
-
+//hjhjhjh
   staging: {
     client: 'postgresql',
     connection: {
